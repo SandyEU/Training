@@ -1,0 +1,77 @@
+20 underused #Git commands to level up #development workflow 😎 🧙‍♂️
+
+- Git Web - Open builtin GUI
+- Git Notes - Attach extra info to commits
+- Git Bisect - Debug like a pro
+- Git Grep - Search for anything
+- Git Archive - Compress project for sharing
+- Git Submodules - Import other repos into yours
+- Git Bugreport - Compile bug report with system info
+- Git Fsck - Verify and recover unreachable objects
+- Git Stripspace - Remove trailing whitespaces
+- Git Diff - Compare changes between two files
+- Git Hooks - Execute script when a git command is run
+- Git Blame - Show who wrote a given line
+- Git Large File Storage - Store big files in git
+- Git Garbage Collection - Optimize your git repo
+- Git Show - Easily inspect any git object
+- Git Describe - Give readable name based on last tag
+- Git Tag - Create version tags at specific points
+- Git Reflog - List all git actions made on a repo
+- Git Log - View commit log, and branch diagrams
+- Git Cherry Pick - Pull a feature into your branch
+- Git Switch - Quickly jump between branches
+
+
+
+
+FREE GIT & GITHUB TUTORIAL ON UDEMY :
+
+For Absolute Beginner
+
+1. Git: Become an Expert in Git & GitHub in 4 Hours
+https://lnkd.in/dQZzAHBR
+2. Git & GitHub Crash Course: Create a Repository From Scratch!
+https://lnkd.in/d-s-C7es
+3. Git Started with GitHub
+https://lnkd.in/duPECPqJ
+4. Git & GitHub: Learn Git and GitHub over the weekend
+https://lnkd.in/daucpRvD
+5. Complete GIT and GitHub Crash Course
+https://lnkd.in/dr32hDe2
+6. Git & GitHub for Automation Testing
+https://lnkd.in/dW2Hfx42
+7. Git & GitHub Complete Guide
+https://lnkd.in/dzUSGamH
+8. Real-World Example: Git and GitHub on Windows - Basics
+https://lnkd.in/dnPu2hnS
+9. Free Hosted Website on GitPages and simple Git Guide
+https://lnkd.in/d7eAbY38
+10. Intro to Git
+https://lnkd.in/dWqsSXgi
+11. Git tutorials for Beginners - Complete Course
+https://lnkd.in/dDtbcfZ6
+12. GIT for beginners
+https://lnkd.in/dZ8qiThT
+13. Creating your personal website at GitHub Pages
+https://lnkd.in/dX4mgtCs
+14. Learn Git: Everything You Need To Know
+https://lnkd.in/dfZshjFg
+15. Git Essentials: Mini Course
+https://lnkd.in/d9eC_Arc
+16. Make your GitHub Profile stand out
+https://lnkd.in/dWgDNDgh
+17. GIT Crash Course
+GIT Beginners to Advanced
+https://lnkd.in/ddzznGuV
+18. Getting Started with GitHub and TeamCity
+https://lnkd.in/dHsi-wb5
+19. Project Portfolio: Step by Step How to Publish Your Own Site
+You will create a personal portfolio website to show off to friends, family, and future employers!
+https://lnkd.in/d9CeAEfg
+20. Git Started with GitHub
+https://lnkd.in/duPECPqJ
+
+Follow Rahul Bharambe (RSB) for more 💯
+.
+.
